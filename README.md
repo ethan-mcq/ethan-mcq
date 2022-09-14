@@ -15,7 +15,7 @@
 
 <h1 align="center"> Hi! My name is Ethan McQuhae </h1>
 
-### :hammer_and_wrench: Languages and Tools :
+<h1 align="center"> :hammer_and_wrench: Languages and Tools : </h1>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
