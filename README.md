@@ -1,5 +1,3 @@
-### <h1 align="center"> Hi! My name is Ethan McQuhae
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="100"/>
 <div id="badges">
@@ -12,6 +10,7 @@
 <div>
   <img src="https://komarev.com/ghpvc/?username=ethan-mcqe&style=flat-square&color=blue" alt=""/>
   </div>
+### <h1 align="center"> Hi! My name is Ethan McQuhae
  
 <!--
 **ethan-mcq/ethan-mcq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
