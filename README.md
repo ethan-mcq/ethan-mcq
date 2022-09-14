@@ -19,7 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://seeklogo.com/vector-logo/339932/airflow" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>
+  <img src="https://github.com/jghoman/awesome-apache-airflow/blob/master/airflow-logo.png" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>
 </div>
 
 
