@@ -13,6 +13,7 @@
 </div>
 
 <h1 align="center"> Hi! My name is Ethan McQuhae
+</h1>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
@@ -26,7 +27,7 @@
 
 ---
 	
-<div align="left"> About Me :
+### About Me :
 - 🔭 I’m currently working on:
 	- GUI for Scientific Data Manipulation
 	- Google Analytics Ingestion into S3bucket visualized in Tableau
