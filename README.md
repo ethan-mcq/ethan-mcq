@@ -25,9 +25,8 @@
 </div>
 
 ---
-
 	
-<h1 align="left"> About Me :
+<div align="left"> About Me :
 - 🔭 I’m currently working on:
 	- GUI for Scientific Data Manipulation
 	- Google Analytics Ingestion into S3bucket visualized in Tableau
