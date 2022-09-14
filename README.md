@@ -9,7 +9,9 @@
   <a href="ethan.mcq01@gmail.com">
     <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-</div> 
+<div>
+  <img src="https://komarev.com/ghpvc/?username=ethan-mcqe&style=flat-square&color=blue" alt=""/>
+  </div>
  
 <!--
 **ethan-mcq/ethan-mcq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
