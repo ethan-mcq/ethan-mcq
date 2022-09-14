@@ -10,9 +10,23 @@
 <div>
   <img src="https://komarev.com/ghpvc/?username=ethan-mcqe&style=flat-square&color=blue" alt=""/>
   </div>
-### <h1 align="center"> Hi! My name is Ethan McQuhae
- 
-<!--
+<h1 align="center"> Hi! My name is Ethan McQuhae
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/apache/airflow/blob/main/airflow/www/static/pin.svg" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>
+</div>
+
+
+            
+            <!--
 **ethan-mcq/ethan-mcq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
