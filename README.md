@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="100"/>
+</div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/ethan-mcquhae/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,7 +10,8 @@
   </a>
 <div>
   <img src="https://komarev.com/ghpvc/?username=ethan-mcqe&style=flat-square&color=blue" alt=""/>
-  </div>
+</div>
+
 <h1 align="center"> Hi! My name is Ethan McQuhae
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -21,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/jghoman/awesome-apache-airflow/blob/master/airflow-logo.png" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>
 </div>
-	
+
 ---
 
 ### About Me :
