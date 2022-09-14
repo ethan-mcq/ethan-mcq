@@ -11,7 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=ethan-mcqe&style=flat-square&color=blue" alt=""/>
   </div>
 <h1 align="center"> Hi! My name is Ethan McQuhae
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -20,8 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/apache/airflow/blob/main/airflow/www/static/pin.svg" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>
+  <img src="https://seeklogo.com/vector-logo/339932/airflow" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>
 </div>
 
 
