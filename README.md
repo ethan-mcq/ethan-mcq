@@ -21,6 +21,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/jghoman/awesome-apache-airflow/blob/master/airflow-logo.png" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>
 </div>
+---
+	
 - 🔭 I’m currently working on:
 	- GUI for Scientific Data Manipulation
 	- Google Analytics Ingestion into S3bucket visualized in Tableau
