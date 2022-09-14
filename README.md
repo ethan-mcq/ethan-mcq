@@ -1,4 +1,4 @@
-### Hi there 👋
+### <h1 align="center"> Hi! My name is Ethan McQuhae
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="100"/>
