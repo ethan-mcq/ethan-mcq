@@ -17,14 +17,6 @@
 
 ---
 	
-### About Me :
-- 🔭 I’m currently working on:
-	- GUI for Scientific Data Manipulation
-	- Google Analytics Ingestion into S3bucket visualized in Tableau
-- 🌱 I’m currently learning
-	- SQL
-	- Apache Airflow 
-	- Tableau
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -35,4 +27,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/jghoman/awesome-apache-airflow/blob/master/airflow-logo.png" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>
+  <img src="https://github.com/jghoman/devicon/icons/docker/docker-original.svg" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>
 </div>
