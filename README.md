@@ -52,7 +52,6 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bash.png" width="50" alt="Bash"/>
 <img src="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow-icon.png" width="50" alt="Nextflow"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pytest.png" width="50" alt="Pytest"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/fastapi.png" width="50" alt="FastAPI"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/groovy.png" width="50" alt="Groovy"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/grpc.png" width="50" alt="gRPC"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/rest.png" width="50" alt="REST"/>
