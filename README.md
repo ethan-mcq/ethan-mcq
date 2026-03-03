@@ -76,15 +76,5 @@
 - gDNA / cfDNA analysis  
 - High-throughput sequencing workflows  
 
----
-
-## Engineering Philosophy
-
-Good infrastructure is like good pizza:
-
-- Simple ingredients  
-- Clean layers  
-- Carefully engineered  
-- Scales beautifully  
 
 Always building. Always iterating. Always hungry.
