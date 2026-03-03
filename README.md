@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=ethan-mcqe&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h3 align="center">Cloud • Bioinformatics • Automation • Pizza Enthusiast</h3>
+<h3 align="center">Cloud • Bioinformatics • CI/CD • Pizza Enthusiast</h3>
 <h3 align="center">When I’m not optimizing pipelines, I’m dreaming of my next slice of pizza.</h3>
 
 ---
